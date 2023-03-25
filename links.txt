@@ -1,0 +1,10 @@
+https://www.kaggle.com/datasets/grafstor/simple-dialogs-for-chatbot/download?datasetVersionNumber=2
+//above dataset contain question and answer in same line
+https://www.kaggle.com/datasets/elvinagammed/chatbots-intent-recognition-dataset/download?datasetVersionNumber=1
+//this one has different format, it is in json and contains multiple answers
+https://www.kaggle.com/datasets/kreeshrajani/3k-conversations-dataset-for-chatbot/download?datasetVersionNumber=1
+//this is csv file
+https://github.com/alexa/Topical-Chat.git
+//topical chat dataset
+https://github.com/marsan-ma/chat_corpus
+//github
